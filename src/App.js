@@ -7,7 +7,7 @@ function App() {
         
         <p>
         Se abre el telón, aparece un informático y dice: ¡qué habéis tocado que no se cierra el telón!.
-        Editado React 
+        Editando React 
         </p>
         <p className="small">
        Chiste de internet <code>:D</code> #6.
