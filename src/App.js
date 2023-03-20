@@ -6,19 +6,23 @@ function App() {
       <header className="App-header">
         
         <p>
-          Editando editando <span className="heart">!</span> React prueba
+        Se abre el telón, aparece un informático y dice: ¡qué habéis tocado que no se cierra el telón!.
+        Editado React 
         </p>
         <p className="small">
-          Editado AraSancord <code>src/App.js</code> Prueba prueba.
+       Chiste de internet <code>:D</code> #6.
         </p>
         <p>
+
+
+          
           <a
             className="App-link"
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Aprende React
           </a>
         </p>
       </header>
